@@ -2,38 +2,7 @@
 Changelog for package rosidl_default_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.7.2 (2026-02-23)
-------------------
-* fix cmake deprecation (`#31 <https://github.com/ros2/rosidl_defaults/issues/31>`_) (`#32 <https://github.com/ros2/rosidl_defaults/issues/32>`_)
-* Contributors: mergify[bot]
-
-1.7.1 (2024-06-17)
-------------------
-* Minor update to quality declaration (`#27 <https://github.com/ros2/rosidl_defaults/issues/27>`_)
-* Contributors: Christophe Bedard
-
-1.7.0 (2024-04-26)
-------------------
-
-1.6.0 (2023-04-28)
-------------------
-
-1.5.0 (2023-02-13)
-------------------
-* add service_msgs depend (`#24 <https://github.com/ros2/rosidl_defaults/issues/24>`_)
-* [rolling] Update maintainers - 2022-11-07 (`#25 <https://github.com/ros2/rosidl_defaults/issues/25>`_)
-* Contributors: Audrow Nash, Brian
-
-1.4.0 (2022-09-08)
-------------------
-* Move dependencies to rosidl_core and depend on action_msgs (`#22 <https://github.com/ros2/rosidl_defaults/issues/22>`_)
-  Move implementation to new packages rosidl_core_generators and rosidl_runtime_generators
-  The new packages are located in a separate repository: https://github.com/ros2/rosidl_core.git
-  rosidl_defaults now depends on the new packages, plus message definitions required for Actions (namely action_msgs).
-  This allows users to avoid having to explictly depend on action_msgs.
-* Contributors: Jacob Perron
-
-1.3.0 (2022-05-04)
+1.2.1 (2026-02-23)
 ------------------
 
 1.2.0 (2022-03-31)
