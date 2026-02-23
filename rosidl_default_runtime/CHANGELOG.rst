@@ -2,13 +2,10 @@
 Changelog for package rosidl_default_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.8.1 (2025-07-01)
+1.7.2 (2026-02-23)
 ------------------
-* fix cmake deprecation (`#31 <https://github.com/ros2/rosidl_defaults/issues/31>`_)
-* Contributors: mosfet80
-
-1.8.0 (2025-04-25)
-------------------
+* fix cmake deprecation (`#31 <https://github.com/ros2/rosidl_defaults/issues/31>`_) (`#32 <https://github.com/ros2/rosidl_defaults/issues/32>`_)
+* Contributors: mergify[bot]
 
 1.7.1 (2024-06-17)
 ------------------
