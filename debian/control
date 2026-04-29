@@ -1,0 +1,12 @@
+Source: ros-lyrical-rosidl-default-runtime
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/rosidl_default_runtime/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rosidl-default-runtime
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-action-msgs, ros-lyrical-rosidl-core-runtime, ros-lyrical-service-msgs, ros-lyrical-ros-workspace
+Description: A configuration package defining the runtime for the ROS interfaces.
