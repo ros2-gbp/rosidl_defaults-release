@@ -2,6 +2,9 @@
 Changelog for package rosidl_default_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.9.0 (2026-05-05)
+------------------
+
 1.8.1 (2025-07-01)
 ------------------
 * fix cmake deprecation (`#31 <https://github.com/ros2/rosidl_defaults/issues/31>`_)
