@@ -1,3 +1,28 @@
+## rosidl_defaults (jazzy) - 1.6.1-1
+
+The packages in the `rosidl_defaults` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy rosidl_defaults` on `Tue, 02 Jun 2026 08:56:54 -0000`
+
+These packages were released:
+- `rosidl_default_generators`
+- `rosidl_default_runtime`
+
+Version of package(s) in repository `rosidl_defaults`:
+
+- upstream repository: https://github.com/ros2/rosidl_defaults.git
+- release repository: https://github.com/ros2-gbp/rosidl_defaults-release.git
+- rosdistro version: `1.6.0-3`
+- old version: `1.6.0-3`
+- new version: `1.6.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_defaults (rolling) - 1.9.0-1
 
 The packages in the `rosidl_defaults` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rosidl_defaults` on `Tue, 05 May 2026 17:40:35 -0000`
